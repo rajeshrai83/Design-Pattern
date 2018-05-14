@@ -1,0 +1,7 @@
+D:\Code\Design-Pattern\Design-Pattern\bin\Debug\Design-Pattern.exe.config
+D:\Code\Design-Pattern\Design-Pattern\bin\Debug\Design-Pattern.exe
+D:\Code\Design-Pattern\Design-Pattern\bin\Debug\Design-Pattern.pdb
+D:\Code\Design-Pattern\Design-Pattern\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+D:\Code\Design-Pattern\Design-Pattern\obj\Debug\Design-Pattern.exe
+D:\Code\Design-Pattern\Design-Pattern\obj\Debug\Design-Pattern.pdb
+D:\Code\Design-Pattern\Design-Pattern\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
